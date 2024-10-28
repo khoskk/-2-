@@ -13,7 +13,7 @@ printf "%08d.%08d.%08d.%08d\n" \
     "$(bc <<< "obase=2;$i3")" \
     "$(bc <<< "obase=2;$i4")"
 
+![image](https://github.com/user-attachments/assets/a0109c0f-8dd2-4d66-8f98-6825cd3162bf)
 
 
-![image](https://github.com/user-attachments/assets/f6699d04-c25c-4610-bcb3-a9c26cd8378a)
 
