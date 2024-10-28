@@ -5,7 +5,6 @@
 IP=$1
 
 IFS='.' 
-
 read -r i1 i2 i3 i4 <<< "$IP"
 printf "%08d.%08d.%08d.%08d\n" \
     "$(bc <<< "obase=2;$i1")" \
